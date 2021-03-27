@@ -16,7 +16,7 @@ body {
     color: white;
 }
 
-header .conteiner {
+header .container {
     display: flex;
     flex-direction: row;
     align-items: center;
